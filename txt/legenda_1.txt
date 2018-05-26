@@ -1,0 +1,49 @@
+CF1 - CF2                      CONTATTO CHIAVE EMERGENZA PORTA ACCESSO IN FOSSA
+1 - 2                          EXTRA CORSA
+2-3-3A                         ALT E BOTTONIERE MANUTENZIONE TETTO E FOSSA
+3A - 4                         MORSETTI DA LASCIARE VUOTI (NO CIRCUITI)
+4 - 5                          INTER FOSSA
+5 - 6                          ALT CABINA
+6 - 6A                         CEV A3 SICUREZZE (NC)
+6 - 7                          PARACADUTE
+7 - 8                          PRELIMINARI
+8 - 9                          PORTE CABINA
+9 - 9A                         CONTATTO CEV A3 ANTIDERIVA (NO)
+9 - 10                         BLOCCHI
+GND - MA                       DEVIATORE MANUTENZIONE PULSANTIERE TETTO E FOSSA
+GND - UP, GND - DW             PULSANTI ISPEZIONE TETTO E FOSSA
+0  - 1...                      CHIAMATE (SU PERIFERICA QUADRO)
+CB                             COMUNE BOTTONIERA CABINA
+CE                             COMUNE BOTTONIERE PIANI
+GND - FCD                      BISTABILE FINE CORSA DISCESA
+GND - FCS                      BISTABILE FINE CORSA SALITA
+GND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA
+GND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA
+GND - IAX                      INDUTTORE FERMATA CON PIANI CORTI ESTREMI
+GND - PA                       PULSANTE APERTURA PORTE
+GND - SVR                      CONTATTO SOVRACCARICO (OBBLIGATORIO TIPO "NC" PER A3)
+GND - CM1                      COSTOLA MOBILE - FOTOCELLULA LATO1
+GND - CM2                      COSTOLA MOBILE - FOTOCELLULA LATO2
+GND - FM                       FONDO MOBILE
+PT1 - PT2                      TERMORESISTENZE MOTORE ARGANO
+PT2 - PT3                      TERMORESISTENZE MOTORE PORTE
+CL - 0, CL - 1...              SEGNALAZIONE POSIZIONE (SU PERIFERICA QUADRO)
+CL - FS                        SEGNALAZIONE FRECCIA SALITA
+CL - FD                        SEGNALAZIONE FRECCIA DISCESA
+CL - SV                        SEGNALAZIONE SOVRACCARICO
+CL - GON                       SEGNALAZIONE GONG IN CABINA
+PE                             RITORNO PRESENTE
+CL - PE                        ALIMENTAZIONE FOTOCELLULE
+PR+ - PR-                      PATTINO RETRATTILE
+FR+ - FR-                      FRENO ARGANO
+CV1 - CV2                      CONTATTO CONTROLLO BOBINA CEV ANTIDERIVA (NC)
+CV- \ CV+                      BOBINA CEV ANTIDERIVA 24V
+CX1 - CX2                      CONTATTI PER MANOVRA A MANO A CURA DEL CLIENTE :MONTARE UN CONTATTO "NC"
+---------                      ED UN INTERRUTTORE "NO" "CEV"-COLLEGARLI IN SERIE SULL'INTERRUTTORE GENERALE
+---------                      A QUESTI MORSETTI PER ALIMENTARE LA BOBINA DEL CEV PER LA MANOVRA A MANO ED 
+---------                      APPLICARE LE ISTRUZIONI
+LZ1 - LZ2                      SPIA + BUZZER MOVMENTO IN MANUTENZIONE CON BYPASS                     
+TN                             COMUNE TERRE QUADRO
+
+
+
