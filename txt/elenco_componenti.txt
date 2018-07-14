@@ -28,7 +28,6 @@ RF                     RELÈ FRENO
 RP                     RELÈ PATTINO
 AP1 - AP2              RELÈ APERTURA
 CP1 - CP2              RELÈ CHIUSURA
-FC1 - FC2              RELE' FINE CORSA CHIUSURA PER EN81-20
 RX                     RELE' ACCESSO IN FOSSA
 CEX                    SCHEDA CONTROLLO ACCESSO IN FOSSA
 R1 - R2                RELE' COMANDO BOBINA CEV A3
