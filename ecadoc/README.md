@@ -1,16 +1,8 @@
 # MC-FAL10AA3MIAECEV20
 Schema quadro elettrico per ascensore serie `mcpx`. Impianto a fune con emergenza, gestione emendamento A3 e EN8120.
 
-## Licenza
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.
-
-Fatta eccezione del logo
-
-![logo](./assets/images/eca-logo.png)
-
-e del nome `Eca di Belardi Roberto`.
-
-Copyright (C) 2018  Eca di Belardi Roberto.
+Puoi trovare il repository dello schema su
+<a href="https://github.com/eca-automs/MC-FAL10AA3MIAECEV20" target="_blank">GitHub</a>.
 
 ### Scheda controllo
 MCPX2015-SMD - PER16B-SMD
